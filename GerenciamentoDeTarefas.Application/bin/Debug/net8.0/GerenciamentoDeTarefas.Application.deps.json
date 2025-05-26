@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GerenciamentoDeTarefas.Application/1.0.0": {
+        "dependencies": {
+          "GerenciamentoDeTarefas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GerenciamentoDeTarefas.Application.dll": {}
+        }
+      },
+      "GerenciamentoDeTarefas.Domain/1.0.0": {
+        "runtime": {
+          "GerenciamentoDeTarefas.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerenciamentoDeTarefas.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GerenciamentoDeTarefas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

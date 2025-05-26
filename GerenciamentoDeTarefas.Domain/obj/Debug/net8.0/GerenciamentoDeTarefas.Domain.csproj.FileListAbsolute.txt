@@ -1,0 +1,11 @@
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Domain\obj\Debug\net8.0\GerenciamentoDeTarefas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Domain\obj\Debug\net8.0\GerenciamentoDeTarefas.Domain.AssemblyInfoInputs.cache
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Domain\obj\Debug\net8.0\GerenciamentoDeTarefas.Domain.AssemblyInfo.cs
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Domain\obj\Debug\net8.0\GerenciamentoDeTarefas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Domain\bin\Debug\net8.0\GerenciamentoDeTarefas.Domain.deps.json
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Domain\bin\Debug\net8.0\GerenciamentoDeTarefas.Domain.dll
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Domain\bin\Debug\net8.0\GerenciamentoDeTarefas.Domain.pdb
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Domain\obj\Debug\net8.0\GerenciamentoDeTarefas.Domain.dll
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Domain\obj\Debug\net8.0\refint\GerenciamentoDeTarefas.Domain.dll
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Domain\obj\Debug\net8.0\GerenciamentoDeTarefas.Domain.pdb
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Domain\obj\Debug\net8.0\ref\GerenciamentoDeTarefas.Domain.dll

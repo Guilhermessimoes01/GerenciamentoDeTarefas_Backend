@@ -1,0 +1,15 @@
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\obj\Debug\net8.0\GerenciamentoDeTarefas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\obj\Debug\net8.0\GerenciamentoDeTarefas.Application.AssemblyInfoInputs.cache
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\obj\Debug\net8.0\GerenciamentoDeTarefas.Application.AssemblyInfo.cs
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\obj\Debug\net8.0\GerenciamentoDeTarefas.Application.csproj.CoreCompileInputs.cache
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\bin\Debug\net8.0\GerenciamentoDeTarefas.Application.deps.json
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\bin\Debug\net8.0\GerenciamentoDeTarefas.Application.dll
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\bin\Debug\net8.0\GerenciamentoDeTarefas.Application.pdb
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\bin\Debug\net8.0\GerenciamentoDeTarefas.Domain.dll
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\bin\Debug\net8.0\GerenciamentoDeTarefas.Domain.pdb
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\obj\Debug\net8.0\GerenciamentoDeTarefas.Application.csproj.AssemblyReference.cache
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\obj\Debug\net8.0\Gerencia.C23B4DBC.Up2Date
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\obj\Debug\net8.0\GerenciamentoDeTarefas.Application.dll
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\obj\Debug\net8.0\refint\GerenciamentoDeTarefas.Application.dll
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\obj\Debug\net8.0\GerenciamentoDeTarefas.Application.pdb
+C:\Users\Simões\Desktop\Guilherme\GerenciamentoDeTarefas_Solution\GerenciamentoDeTarefas.Application\obj\Debug\net8.0\ref\GerenciamentoDeTarefas.Application.dll
